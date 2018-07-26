@@ -1,0 +1,26 @@
+/*!
+Theme Name: SK Partitions
+Theme URI: skpartitions.com.au
+Author: Lachlan Mckelvie
+Author URI: http://www.webtron.com.au
+Version: 1.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Domain Path: /languages/
+*/
+
+////// VENDOR //////
+@import "vendor/vendor_config";
+
+// @import "../node_modules/bootstrap/scss/functions"; // Bootstrap
+// @import "../node_modules/bootstrap/scss/bootstrap"; // Bootstrap
+@import "../node_modules/font-awesome/scss/font-awesome"; // Fontawesome
+@import "../node_modules/slick-carousel/slick/slick.scss"; // Fontawesome
+
+
+////// SOURCE //////
+@import "source/config";
+@import "source/elements";
+@import "source/classes";
+@import "source/ids";
+@import "source/generic";

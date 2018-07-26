@@ -1,0 +1,43 @@
+{
+  "name": "sbauction-2017",
+  "version": "1.0.0",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp-clean": "*"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "*",
+    "graceful-fs": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-copy": "*",
+    "gulp-hash": "*",
+    "gulp-hash-filename": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-livereload": "*",
+    "gulp-load-plugins": "*",
+    "gulp-minify-css": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-uglify-es": "^0.1.3",
+    "jquery": "*",
+    "jshint": "*",
+    "mattboldt.typed.js": "*",
+    "minimatch": "*",
+    "popper.js": "^1.12.6",
+    "shave": "*",
+    "slick-carousel": "*",
+    "tether": "*",
+    "tiny-lr": "*",
+    "webfontloader": "*"
+  }
+}

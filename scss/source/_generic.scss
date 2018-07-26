@@ -1,0 +1,286 @@
+/* CREATED BY LACHLAN MCKELVIE */
+// .row {
+//   margin-right: 0 !important;
+// }
+// FONT CLASSES
+.x-light {
+  font-weight: 100;
+}
+.light {
+  font-weight: 300 !important;
+}
+.regular {
+  font-weight: 400;
+}
+.semi-bold {
+  font-weight: 500 !important;
+}
+.bold {
+  font-weight: 700;
+}
+.white {
+  color: white !important;
+}
+.black {
+  color: black
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.vertical-middle {
+  vertical-align: middle;
+}
+.no-deco a {
+  text-decoration: none !important;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+.no-caps {
+  text-transform: none !important;
+}
+.font-20 {
+  font-size: 20px;
+}
+// BACKGROUND COLOR
+.back-white {
+  background: white;
+}
+.back-black {
+  background: black;
+}
+.back-lgrey {
+  background: #fafafa;
+}
+
+.transparent {
+  background: transparent;
+}
+.box-shadow {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+// IMAGE CLASSES
+.max-width {
+  max-width: 100%;
+}
+.max-height {
+  height: 100%;
+}
+.width-100 {
+  width: 100%;
+}
+.set-height {
+  height: 400px;
+}
+.height-100 {
+  height: 100%;
+}
+
+// MARGINS & PADDING
+.no-pad {
+  padding: 0 !important;
+}
+.no-pad-top {
+  padding-top: 0 !important;
+}
+.no-pad-bottom  {
+  padding-bottom: 0 !important;
+}
+.no-pad-right {
+  padding-right: 0 !important;
+}
+.no-pad-left {
+  padding-left: 0 !important;
+}
+.pad-tb-50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.pad-tb-30 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.pad-30 {
+  padding: 30px;
+}
+.extra-pad {
+  padding-bottom: 30px;
+}
+.pad-bot-10 {
+  padding-bottom: 10px;
+}
+.pad-bot-20 {
+  padding-bottom: 20px;
+}
+.pad-bot-30 {
+  padding-bottom: 30px;
+}
+.pad-bot-50 {
+  padding-bottom: 50px
+}
+.pad-top {
+  padding-top: 50px;
+}
+.pad-top-10 {
+  padding-top: 10px;
+}
+.pad-top-20 {
+  padding-top: 20px;
+}
+.pad-top-30 {
+  padding-top: 30px;
+}
+.pad-top-50 {
+  padding-top: 50px
+}
+.pad-right-10 {
+  padding-right: 10px;
+}
+.padding-right-20 {
+  padding-right: 20px
+}
+.pad-left-10 {
+  padding-left: 10px;
+}
+.pad-left-20 {
+  padding-left: 20px;
+}
+.page-pad {
+  padding-top: 70px;
+}
+.pad-left-5 {
+  padding-left: 5px !important
+}
+.pad-right-5 {
+  padding-right: 5px;
+}
+.margin-top-35 {
+  margin-top: 35px !important;
+}
+.margin-top-100 {
+  margin-top: 100px;
+}
+.no-margin {
+  margin: 0 !important;
+}
+.no-margin-top {
+  margin-top: 0 !important;
+}
+.no-margin-bottom {
+  margin-bottom: 0 !important;
+}
+.no-margin-right {
+  margin-right: 0 !important;
+}
+.no-margin-left {
+  margin-left: 0 !important;
+}
+.margin-auto {
+  margin: auto;
+}
+.margin-bot-10 {
+  margin-bottom: 10px;
+}
+.margin-bot-20 {
+  margin-bottom: 20px;
+}
+.margin-top-20 {
+  margin-top: 20px;
+}
+.margin-right-10 {
+  margin-right: 15px;
+}
+.margin-left-40 {
+  margin-left: 40px;
+}
+.margin-top-10 {
+  margin-top: 10px;
+}
+// POSITIONING
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.static {
+  position: static;
+}
+.fixed {
+  position: fixed;
+}
+
+// DISPLAY
+.block {
+  display: block;
+}
+.inline {
+  display: inline;
+}
+.inline-block {
+  display: inline-block;
+}
+.flex {
+  display: flex;
+}
+.float-right {
+  float: right;
+}
+
+// ABSOLUTE STYLING
+.absolute-center {
+  left: 50%;
+ -webkit-transform: translateX(-50%);
+ -moz-transform: translateX(-50%);
+ transform: translateX(-50%);
+}
+.z-1000 {
+  z-index: 1000;
+}
+.top-10 {
+  top: 10px;
+}
+
+//FLEX ELEMENTS
+.justify-center {
+  justify-content: center;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.justify-space {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.align-start {
+  align-items: flex-start;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-grow {
+  flex-grow: 10;
+}
+
+// OPACITY EFFECTS
+.light-opacity {
+  opacity: 0.9;
+}
+.opacity-five {
+  opacity: 0.5;
+}
+.hover-full:hover {
+  opacity: 1;
+}
+.transition-opacity {
+  transition: opacity .5s
+}
